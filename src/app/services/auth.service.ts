@@ -16,7 +16,7 @@ import { map } from 'rxjs/operators';
 // https://identitytoolkit.googleapis.com/v1/accounts:signInWithPassword?key=[API_KEY]
 export class AuthService {
   private urlApi = 'https://identitytoolkit.googleapis.com/v1';
-  private apiKey = 'AIzaSyARA4_5dAaStoY3kBubjlUpnVhtD2Imf1U';
+  private apiKey = 'HkncknskUnknlnkInnlnlnbvgvrcrcgTREvhFESFEZXDGr';
 
   userToken: string;
 
